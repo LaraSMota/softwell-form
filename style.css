@@ -1,0 +1,14 @@
+#submit-button{
+    padding-top: 5px;
+    padding-bottom: 10px;
+    text-align: center;
+}
+#titulo{
+    font-family: verdana, sans-serif;
+    font-size: 25px; 
+    text-align: center;
+}
+footer{
+    background-color: #e3f2fd;
+    text-align: center;
+}
